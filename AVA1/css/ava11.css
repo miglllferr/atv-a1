@@ -1,0 +1,94 @@
+*{margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.conteiner{
+    max-width: auto;
+    height: 350px;
+    background-color: blue;
+}
+
+h1{
+    padding-top: 90px;
+    padding-left: 400px;
+    color: white;
+}
+p{
+    padding-top: 5px;
+    padding-left: 510px;
+    color: white;
+    font-size: 24px;
+}
+.quadrado{
+    background-color: red;
+    width: 125px;
+    height: 40px;
+    margin: auto;
+    
+}
+button{
+    background-color: red;
+    width: 125px;
+    height: 40px;
+    margin: auto;
+    color: white;
+
+}
+
+.conteinerbottom{
+    max-width: auto;
+    height: 200px;
+    background-color:red;
+    margin: auto;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    
+    
+
+}
+.titulo{  
+    margin: 0px;
+    color:black;
+    font-size: 24px;
+    text-align: center;
+    background-color: red;
+    padding-top: 50px;
+}
+.caixa1{
+    background-color: white;
+    width: 300px;
+    height: 125px;
+    border-radius: 5%;
+    text-align: center;
+   
+}
+
+.caixa2{
+    background-color: white;
+    width: 200px;
+    height: 30px;
+    padding-top: 100px;
+    padding-left:100px;
+    border-radius: 5%;  
+}
+.caixa3{
+    background-color: white;
+    width: 200px;
+    height: 30px;
+    padding-top: 100px;
+    padding-left: 100px;
+    border-radius: 5%;
+}
+h5 {
+    color: black;
+    font-size: 16px;
+    margin: 20px 0 10px 0;
+}
+
+h6 {
+    color: black;
+    font-size: 13px;
+    font-weight: normal;
+    margin: 0;
+    
+}
