@@ -23,7 +23,6 @@ p{
     width: 125px;
     height: 40px;
     margin: auto;
-    
 }
 button{
     background-color: red;
@@ -31,6 +30,8 @@ button{
     height: 40px;
     margin: auto;
     color: white;
+    border-radius: 5%;
+    
 
 }
 
@@ -42,9 +43,6 @@ button{
     display: flex;
     justify-content:space-around;
     align-items: center;
-    
-    
-
 }
 .titulo{  
     margin: 0px;
@@ -88,5 +86,10 @@ h6 {
     font-size: 13px;
     font-weight: normal;
     margin: 0;
-    
+}
+.rodape{
+    background-color:black;
+    text-align: center;
+    padding: 20px 0;
+    color: grey;
 }
