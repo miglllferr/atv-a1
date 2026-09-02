@@ -1,0 +1,110 @@
+*{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.conteiner{
+    max-width: auto;
+    height: 350px;
+    background-color: blue;
+}
+
+h1{
+    padding-top: 90px;
+    padding-left: 400px;
+    color: white;
+    width: 100%;
+    max-width: fit-content;
+}
+p{
+    padding-top: 5px;
+    padding-left: 510px;
+    color: white;
+    font-size: 24px;
+    
+}
+button{
+    background-color: red;
+    width: 125px;
+    height: 40px;
+    margin: auto;
+    color: white;
+    border-radius: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+a{
+    text-align: center;
+    color: white;
+}
+
+.conteinerbottom{
+    max-width: auto;
+    height: 200px;
+    background-color:red;
+    margin: auto;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.titulo{  
+    margin: 0px;
+    color:black;
+    font-size: 24px;
+    text-align: center;
+    background-color: red;
+    padding-top: 50px;
+}
+.caixa1{
+    background-color: white;
+    width: 300px;
+    height: 125px;
+    border-radius: 5%;
+    text-align: center;
+   
+}
+
+.caixa2{
+    background-color: white;
+    width: 300px;
+    height: 125px;
+    border-radius: 5%;
+    text-align: center;
+}
+.caixa3{
+   background-color: white;
+    width: 300px;
+    height: 125px;
+    border-radius: 5%;
+    text-align: center;
+}
+h5 {
+    color: black;
+    font-size: 16px;
+    margin: 20px 0 10px 0;
+}
+
+h6 {
+    color: black;
+    font-size: 13px;
+    font-weight: normal;
+    margin: 0;
+}
+.rodape{
+    background-color:black;
+    text-align: center;
+    padding: 20px 0;
+}
+h7{
+    color: grey;
+    font-size: small;
+}
+.meuproduto{
+    padding-left: 0%;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    text-align: left;
+    background-color: white;
+    color: blue;
+    font-size: 20px;
+}
